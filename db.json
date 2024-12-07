@@ -1,0 +1,63 @@
+{ 
+  "user": [
+  {
+    "id": 2,
+    "name": "Vlad",
+    "surname": "Lobov",
+    "balanse": 15000
+  },
+  {
+    "id": 1,
+    "name": "gleb",
+    "surname": "troxan",
+    "balanse": 15
+  }
+],
+"products": [
+    {
+        "id": 1,
+        "name": "LED display",
+        "price": 92,
+        "author_id": 1,
+        "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/led.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Arduino UNO",
+      "description": "balbalblablabl",
+      "price": 92,
+      "author_id": 2,
+      "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/arduino.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "ESP8266",
+    "description": "Can make color party",
+    "price": 92,
+    "author_id": 1,
+    "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/wifi.jpeg"
+},
+{
+  "id": 4,
+  "name": "RGB",
+  "description": "Can make color party",
+  "price": 92,
+  "author_id": 1,
+  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/rgb.jpeg"
+},
+{
+  "id": 5,
+  "name": "Resistor 10k Ohm",
+  "price": 92,
+  "author_id": 2,
+  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/registor.jpeg"
+},
+{
+  "id": 6,
+  "name": "7-Segment Display",
+  "price": 92,
+  "author_id": 2,
+  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/7-seg.jpeg"
+},
+]
+}
