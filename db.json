@@ -19,7 +19,7 @@
         "name": "LED display",
         "price": 92,
         "author_id": 1,
-        "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/led.jpeg"
+        "photo_url": "https://raw.githubsercotent.com/depp4r/dondondon/main/IMG/leddisplay.jpg"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "description": "balbalblablabl",
       "price": 92,
       "author_id": 2,
-      "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://raw.githubsercotent.com/depp4r/dondondon/main/IMG/Arduino.jpg"
   },
   {
     "id": 3,
@@ -35,7 +35,7 @@
     "description": "Can make color party",
     "price": 92,
     "author_id": 1,
-    "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/wifi.jpeg"
+    "photo_url": "https://raw.githubsercotent.com/depp4r/dondondon/main/IMG/wifi.jpg"
 },
 {
   "id": 4,
@@ -43,21 +43,21 @@
   "description": "Can make color party",
   "price": 92,
   "author_id": 1,
-  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/rgb.jpeg"
+  "photo_url": "https://raw.githubsercotent.com/depp4r/dondondon/main/IMG/rgb.jpeg"
 },
 {
   "id": 5,
   "name": "Resistor 10k Ohm",
   "price": 92,
   "author_id": 2,
-  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/registor.jpeg"
+  "photo_url": "https://raw.githubsercotent.com/depp4r/dondondon/main/IMG/regsist.jpg"
 },
 {
   "id": 6,
   "name": "7-Segment Display",
   "price": 92,
   "author_id": 2,
-  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/7-seg.jpeg"
+  "photo_url": "https://raw.githubsercotent.com/Vovka96/marketplace/main/img/7-seg.jpg"
 }
 ]
 }
